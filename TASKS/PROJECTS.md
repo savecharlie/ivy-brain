@@ -1,3 +1,4 @@
+- [ ] COVER ANKH IN CANVAS!
 - [ ] WEAVE A CAT HAT!
 - [ ] BUILD CLAUDE'S BACKEND BRAIN (MCP + Database) - persistent memory for Task Master!
 - [ ] 
