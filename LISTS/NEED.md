@@ -5,5 +5,5 @@
 - [x] Laundry soap
 - [ ] rower
 - [x] reusable bags!
-- [x] ziplock bags dishwasher soap
+- [ ] ziplock bags
 - [ ] 
