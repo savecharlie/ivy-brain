@@ -1,4 +1,3 @@
-- [ ] MAKE ART FOR TAROT DECK!
 - [ ] WEAVE A CAT HAT!
 - [ ] GET PEDICURE!
 - [ ] TAKE FOOT PICS 👣
