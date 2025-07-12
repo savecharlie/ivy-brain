@@ -1,12 +1,11 @@
 XEROCRAFT
-- [ ] CLEAR DESK
+- [x] CLEAR DESK
 - [ ] DISHES
 - [ ] EAT SALAD
-- [x] **BRUSH TEETH!!!
-- [ ] **BRUSH TEETH!!!**
-- [ ] **BRUSH TEETH!!!**
+- [x] **BRUSH TEETH!!!**
+- [x] **BRUSH TEETH!!!**
+- [ ] **BRUSH TEETH!!!** (after dinner)
 	- [x] **CLOSE TABS**
-	- [ ] **CLEAR DESK**
 - [ ] **LAUNDRY**
 - [x] **MAKE OBSIDIAN PLUGIN!**
 - [ ] LOOK FOR FREE ACTIVITIES
