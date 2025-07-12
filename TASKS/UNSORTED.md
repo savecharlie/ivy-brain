@@ -1,4 +1,3 @@
-- [ ] GET PEDICURE!
 - [ ] TAKE FOOT PICS 👣
 - [ ] BUY UNDERWEAR 👙
 - [ ] BE COMFORTABLY WEALTHY 🤑
