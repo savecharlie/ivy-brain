@@ -5,4 +5,4 @@
 - [ ] TAKE KIDS TO ESCAPE ROOM 🧩 
 - [ ] PAPER BOAT TATTOO 
 - [ ] PAINT A PORTRAIT OF THE MOON! 🌕
-- [ ] 
+- [ ] LEARN CHEMISTRY
