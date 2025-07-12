@@ -1,4 +1,3 @@
-- [ ] WRITE A SPEECH 
 - [ ] WRITE POETRY 
 - [ ] MAKE TAROT DECK!
 - [ ] WEAVE A CAT HAT!
