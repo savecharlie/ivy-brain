@@ -1,3 +1,4 @@
+- [ ] FIX BIKE
 - [ ] PLUCK EYEBROW
 - [ ] TAKE FOOT PICS 👣
 - [ ] DRAW LIVE MODEL
