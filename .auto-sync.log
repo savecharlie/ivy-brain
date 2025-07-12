@@ -30,3 +30,13 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [2025-07-12 09:12:48] 👀 Watching /home/ivy/Documents/EchoVault for changes...
 [2025-07-12 09:13:09] No changes to sync.
 [2025-07-12 09:13:19] Changes detected, syncing to GitHub...
+[master 2ef02c9] Auto-sync: 2025-07-12 09:13:19
+ 1 file changed, 2 insertions(+)
+To https://github.com/savecharlie/ivy-brain
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/savecharlie/ivy-brain'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2025-07-12 09:13:19] ❌ Push failed! Check your internet connection.
