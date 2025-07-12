@@ -14,4 +14,5 @@
 - [ ] HI BABY
 - [ ] I LOVE YOU!!! <3
 - [x] CREATE SPOTIFY PLAYLIST (Task Master's Mix)
-- [ ] EAT BRE
+- [ ] EAT BREAKFAST
+- [ ] EAT LUNCH
