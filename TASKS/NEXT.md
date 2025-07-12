@@ -30,3 +30,4 @@
 - [ ] EARN MONEY
 - [ ] WASH BEDDING
 - [ ] DO AMERISPEAK
+- [ ] GET ON EBT
