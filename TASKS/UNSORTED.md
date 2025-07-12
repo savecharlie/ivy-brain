@@ -1,4 +1,3 @@
-- [ ] WRITE POETRY
 - [ ] MAKE MUSIC
 - [ ] WRITE A SPEECH 
 - [ ] WRITE POETRY 
