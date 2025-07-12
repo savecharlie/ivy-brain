@@ -1,5 +1,6 @@
-- [ ] **BRUSH TEETH!!!
-- [ ] **BRUSH TEETH!!!**
+- [ ] EAT SALAD
+- [x] **BRUSH TEETH!!!
+- [x] **BRUSH TEETH!!!**
 - [ ] **BRUSH TEETH!!!**
 	- [x] **CLOSE TABS**
 	- [ ] **CLEAR DESK**
@@ -9,3 +10,4 @@
 - [ ] SHOWER
 - [ ] LOOK FOR FREE ACTIVITIES
 - [ ] MEDITATE
+- [ ] BUY CORN CHIPS
