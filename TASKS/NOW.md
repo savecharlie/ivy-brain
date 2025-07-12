@@ -1,3 +1,4 @@
+- [ ] CLEAR DESK
 - [ ] DISHES
 - [ ] SHOWER
 - [ ] DO DISHES
