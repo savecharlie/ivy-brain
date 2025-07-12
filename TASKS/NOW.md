@@ -1,8 +1,6 @@
 XEROCRAFT
 - [ ] CLEAR DESK
 - [ ] DISHES
-- [ ] SHOWER
-- [ ] DO DISHES
 - [ ] EAT SALAD
 - [x] **BRUSH TEETH!!!
 - [ ] **BRUSH TEETH!!!**
@@ -11,8 +9,6 @@ XEROCRAFT
 	- [ ] **CLEAR DESK**
 - [ ] **LAUNDRY**
 - [x] **MAKE OBSIDIAN PLUGIN!**
-- [ ] DISHES
-- [ ] SHOWER
 - [ ] LOOK FOR FREE ACTIVITIES
 - [ ] MEDITATE
 - [ ] BUY CORN CHIPS
