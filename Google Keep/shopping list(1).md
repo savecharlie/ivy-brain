@@ -1,7 +1,0 @@
----
-aliases:
-  - shopping list
----
-
-
-- [ ] lube
