@@ -1,3 +1,4 @@
+- [ ] BUY SOCKS 🧦
 - [x] A BIKE
 - [x] RAZORS
 - [x] LIQUID IV

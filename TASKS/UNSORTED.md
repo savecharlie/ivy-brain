@@ -7,7 +7,6 @@
 - [ ] WEAVE A CAT HAT!
 - [ ] GET PEDICURE!
 - [ ] TAKE FOOT PICS 👣
-- [ ] BUY SOCKS 🧦
 - [ ] BUY UNDERWEAR 👙
 - [ ] BE COMFORTABLY WEALTHY 🤑
 - [ ] PLUCK EYEBROW
