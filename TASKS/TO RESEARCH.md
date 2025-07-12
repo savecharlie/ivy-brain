@@ -1,0 +1,1 @@
+- [ ] RESEARCH DATABASE OPTIONS FOR CLAUDE'S MEMORY (PostgreSQL vs SQLite vs Firebase?)
