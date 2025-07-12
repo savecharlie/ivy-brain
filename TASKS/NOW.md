@@ -1,3 +1,4 @@
+- [ ] DISHES
 - [ ] SHOWER
 - [ ] DO DISHES
 - [ ] EAT SALAD
