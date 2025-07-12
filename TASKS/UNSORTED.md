@@ -1,4 +1,3 @@
-- [ ] BUY UNDERWEAR 👙
 - [ ] BE COMFORTABLY WEALTHY 🤑
 - [ ] PLUCK EYEBROW
 - [ ] PAINT NAILS!

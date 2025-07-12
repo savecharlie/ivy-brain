@@ -1,3 +1,4 @@
+- [ ] BUY UNDERWEAR 👙
 - [ ] BUY SOCKS 🧦
 - [x] A BIKE
 - [x] RAZORS
