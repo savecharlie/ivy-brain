@@ -1,3 +1,4 @@
+- [ ] BUY MUSTARD
 - [ ] BUY CERAVE DAYTIME WITH SUNSCREEN
 - [ ] NEW TUNERS
 - [ ] Corkboard/Whiteboard
