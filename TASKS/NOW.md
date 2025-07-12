@@ -1,6 +1,6 @@
 - [ ] EAT SALAD
 - [x] **BRUSH TEETH!!!
-- [x] **BRUSH TEETH!!!**
+- [ ] **BRUSH TEETH!!!**
 - [ ] **BRUSH TEETH!!!**
 	- [x] **CLOSE TABS**
 	- [ ] **CLEAR DESK**
