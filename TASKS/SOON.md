@@ -1,3 +1,4 @@
+- [ ] FIX SCOOTER
 - [ ] FIX BIKE
 - [ ] PLUCK EYEBROW
 - [ ] TAKE FOOT PICS 👣
