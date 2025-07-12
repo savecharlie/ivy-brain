@@ -1,4 +1,3 @@
-- [ ] TAKE FOOT PICS 👣
 - [ ] BUY UNDERWEAR 👙
 - [ ] BE COMFORTABLY WEALTHY 🤑
 - [ ] PLUCK EYEBROW
