@@ -1,3 +1,4 @@
+- [ ] BUY TUMS
 - [ ] BUY UNDERWEAR 👙
 - [ ] BUY SOCKS 🧦
 - [x] A BIKE
