@@ -13,4 +13,4 @@
 - [ ] BUY CORN CHIPS
 - [ ] HI BABY
 - [ ] I LOVE YOU!!! <3
-- [ ] 
+- [ ] CREATE SPOTIFY PLAYLIST (Task Master's Mix)
