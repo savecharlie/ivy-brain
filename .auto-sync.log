@@ -17,3 +17,14 @@ To https://github.com/savecharlie/ivy-brain
 [2025-07-12 08:49:56] ✅ Successfully synced to GitHub!
 [2025-07-12 09:12:47] 🚀 Starting Ivy's Brain Auto-Sync...
 [2025-07-12 09:12:47] Changes detected, syncing to GitHub...
+[master d990b45] Auto-sync: 2025-07-12 09:12:47
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+To https://github.com/savecharlie/ivy-brain
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/savecharlie/ivy-brain'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+[2025-07-12 09:12:48] ❌ Push failed! Check your internet connection.
+[2025-07-12 09:12:48] 👀 Watching /home/ivy/Documents/EchoVault for changes...
