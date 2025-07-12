@@ -16,3 +16,4 @@
 - [x] CREATE SPOTIFY PLAYLIST (Task Master's Mix)
 - [ ] EAT BREAKFAST
 - [ ] EAT LUNCH
+- [ ] EAT DINNER
