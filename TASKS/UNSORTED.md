@@ -1,4 +1,3 @@
-- [ ] WRITE POETRY 
 - [ ] MAKE TAROT DECK!
 - [ ] WEAVE A CAT HAT!
 - [ ] GET PEDICURE!

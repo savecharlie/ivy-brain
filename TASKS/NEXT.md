@@ -1,3 +1,4 @@
+- [ ] WRITE POETRY 
 - [ ] MAKE MUSIC
 - [ ] WRITE POETRY
 - [ ] CLEAN APARTMENT
