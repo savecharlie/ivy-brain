@@ -1,3 +1,4 @@
+- [ ] DO DISHES
 - [ ] EAT SALAD
 - [x] **BRUSH TEETH!!!
 - [ ] **BRUSH TEETH!!!**
