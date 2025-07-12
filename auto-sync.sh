@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Ivy's Brain Auto-Sync Script 🧠✨
-# Automatically syncs TASKS folder to GitHub whenever changes are detected
+# Automatically syncs ENTIRE VAULT to GitHub whenever changes are detected
 
 REPO_DIR="/home/ivy/Documents/EchoVault"
-WATCH_DIR="$REPO_DIR/TASKS"
+WATCH_DIR="$REPO_DIR"
 LOG_FILE="$REPO_DIR/.auto-sync.log"
 
 # Function to log messages
