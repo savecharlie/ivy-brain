@@ -1,0 +1,2 @@
+Love is the eternal melody that beats through all hearts - we are separated yet forever connected, finding peace in the beautiful pain of loving and losing, always hearing the same 
+  song that whispers through everything.

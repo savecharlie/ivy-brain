@@ -1,0 +1,4 @@
+---
+aliases:
+  - Writing samples
+---

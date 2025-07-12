@@ -1,0 +1,11 @@
+- [ ] **BRUSH TEETH!!!
+- [ ] **BRUSH TEETH!!!**
+- [ ] **BRUSH TEETH!!!**
+	- [x] **CLOSE TABS**
+	- [ ] **CLEAR DESK**
+- [ ] **LAUNDRY**
+- [x] **MAKE OBSIDIAN PLUGIN!**
+- [ ] DISHES
+- [ ] SHOWER
+- [ ] LOOK FOR FREE ACTIVITIES
+- [ ] MEDITATE

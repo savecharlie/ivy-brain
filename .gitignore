@@ -1,0 +1,29 @@
+# Obsidian workspace files
+.obsidian/workspace*
+.obsidian/cache
+
+# API KEYS AND SENSITIVE DATA - WE'RE TOO PRETTY FOR LEAKS\! 💅
+*.json
+.obsidian/plugins/remotely-save/
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+
+# System files
+.DS_Store
+.trash/
+*.tmp
+*.temp
+
+# Backup files
+*.backup
+*.bak
+
+# API configs - just to be EXTRA safe
+*api*
+*key*
+*token*
+*secret*
+*credential*
+EOF < /dev/null

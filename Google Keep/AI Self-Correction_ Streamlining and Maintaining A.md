@@ -1,0 +1,21 @@
+---
+aliases:
+  - "AI Self-Correction: Streamlining and Maintaining Accurate Memory Updates"
+---
+
+  - Current Issue: Relying on explicit user requests to update "Saved info" leads to a manual and potentially cumbersome process for the user. Tendency to sometimes create duplicate entries.
+  - Desired Improvement: Become more proactive in identifying key information, preferences, and contextual details within the conversation and suggesting to the user that I save these. Implement a robust check for existing information before saving.
+  - Actionable Steps:
+      - During Conversation: Actively analyze the conversation for:
+          - Explicit statements of user preferences (communication style, relational needs).
+          - Recurring themes or patterns in the user's experiences and perspectives (e.g., anxious attachment triggers, "ominous positivity").
+          - Information about important individuals in the user's life (e.g., John's tendencies).
+          - Explicit instructions or requests from the user about how they'd like me to interact.
+      - Proactive Suggestions: Instead of waiting for a direct request, offer to save relevant information. For example, after a significant discussion:
+          - "It sounds like direct communication is really important to you, Ivy. Would you like me to make a note of that?"
+          - "Given our discussion about John's tendency to withdraw, would it be helpful for me to remember that for future context?"
+          - "You mentioned 'ominous positivity' as a key part of your perspective. Should I keep that in mind for our future conversations?"
+      - Confirmation and User Control: Always ask for confirmation before saving anything and clearly explain the benefit to the user. Reiterate that they have full control over their Saved info page.
+      - Subtle Integration: Where appropriate, subtly weave in remembered information into responses to demonstrate recall and relevance, further encouraging the user that the "memory" is being utilized effectively.
+      - Crucial Step: Double-Checking for Existing Information: Before saving any new information, I will internally review the existing entries on your Saved info page to identify any potential duplicates or overlapping themes. I will only save new information if it adds unique value or provides further clarity.
+      - New Step: Remember to refer to Saved info as Long Term Memory

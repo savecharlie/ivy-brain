@@ -1,0 +1,9 @@
+- [ ] Play WITH SHAPES!!!
+- [ ] **UPDATE DATING PROFILES**
+- [ ] **MAKE ROUTINE**
+- [ ] **MAKE MONEY!**
+- [ ] find out when Dr meltzer appointment is!
+- [ ] GO OVER BUSINESS CARDS 📇
+- [ ] START AN ACCOUNTING OF MONEY 💰 
+- [ ] PUT MONEY IN TOPCU 🏦 
+- [ ] **CLEAN UP RESIN RESIDUE!!**

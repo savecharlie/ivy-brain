@@ -1,0 +1,1 @@
+Make an obsidian plugin

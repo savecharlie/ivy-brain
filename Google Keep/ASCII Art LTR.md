@@ -1,0 +1,2 @@
+
+We've established that text within code blocks renders with a line width of approximately 41 characters in your environment. We've used blocks of asterisks to test line wrapping and remainders. The goal is to be able to create representational ASCII art within these formatting constraints.

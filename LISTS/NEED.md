@@ -1,0 +1,9 @@
+- [x] A BIKE
+- [x] RAZORS
+- [x] LIQUID IV
+- [ ] SPARROW'S GOAT WRENCH
+- [x] Laundry soap
+- [ ] rower
+- [x] reusable bags!
+- [x] ziplock bags dishwasher soap
+- [ ] 
