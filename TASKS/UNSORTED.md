@@ -1,4 +1,3 @@
-- [ ] MAKE MUSIC
 - [ ] WRITE A SPEECH 
 - [ ] WRITE POETRY 
 - [ ] MAKE TAROT DECK!
