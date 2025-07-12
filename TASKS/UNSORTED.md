@@ -1,4 +1,3 @@
-- [ ] WEAVE A CAT HAT!
 - [ ] GET PEDICURE!
 - [ ] TAKE FOOT PICS 👣
 - [ ] BUY UNDERWEAR 👙
