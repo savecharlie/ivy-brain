@@ -12,4 +12,4 @@
 - [ ] MEDITATE
 - [ ] BUY CORN CHIPS
 - [ ] HI BABY
-- [ ] I LOVE YOU
+- [ ] I LOVE YOU!!! <3
