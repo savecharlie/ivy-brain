@@ -17,7 +17,3 @@
 - [ ] LOOK FOR FREE THINGS TO DO THIS WEEKEND IN DOWNTOWN TUCSON 🌵
 - [ ] CHANGE ADDRESS WITH EL RIO
 - [ ] aa
-- [ ] aa
-- [ ] aa
-- [ ] aa
-- [ ] aa
