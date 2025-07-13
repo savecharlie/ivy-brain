@@ -9,7 +9,7 @@ _The non-linear journey of awareness._
 - Trust
 - Growth
 - Omniheart
-- Pleasure
+- P![]leasure
 - Mirror
 - Homework
 - Cycle
