@@ -1,3 +1,4 @@
+- [ ] CHECK MEDICATION INTERACTIONS!!! 💊
 - [ ] SHOWER 🚿
 - [ ] EAT BREAKFAST 🍳
 - [ ] **BRUSH TEETH!!!** (after breakfast) 🦷
