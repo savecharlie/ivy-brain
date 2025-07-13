@@ -1,7 +1,7 @@
-- [ ] Bone Bridge
-- [x] Lego mindstorms <3 ✅ 2025-06-22
-- [ ] Succulents
-- [ ] Ipad Pro
-- [ ] GAMING COMPUTER
-- [ ] LIBRARIAN GLASSES
-- [ ] SPARROW'S GOAT WRENCH
+- [ ] Bone Bridge 🦴
+- [x] Lego mindstorms <3 ✅ 2025-06-22 🧱
+- [ ] Succulents 🌱
+- [ ] Ipad Pro 📱
+- [ ] GAMING COMPUTER 🎮
+- [ ] LIBRARIAN GLASSES 👓
+- [ ] SPARROW'S GOAT WRENCH 🔧
