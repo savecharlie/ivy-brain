@@ -1,24 +1,37 @@
-XEROCRAFT 🔧
+## MORNING ROUTINE 🌅
+- [ ] EAT BREAKFAST 🍳
+- [x] **BRUSH TEETH!!!** (after breakfast) 🦷
+- [ ] STRETCH 🤸
+- [ ] MEDITATE 🧘
+
+## DAILY MEALS 🍽️
+- [ ] EAT LUNCH 🥪
+- [x] **BRUSH TEETH!!!** (after lunch) 🦷
+- [ ] EAT SALAD 🥗
+- [ ] EAT DINNER 🍽️
+- [ ] **BRUSH TEETH!!!** (after dinner) 🦷
+
+## HOUSEHOLD TASKS 🏠
 - [x] CLEAR DESK 🗂️
 - [ ] DISHES 🍽️
-- [ ] EAT SALAD 🥗
-- [x] **BRUSH TEETH!!!** (after breakfast) 🦷
-- [x] **BRUSH TEETH!!!** (after lunch) 🦷
-- [ ] **BRUSH TEETH!!!** (after dinner) 🦷
-	- [x] **CLOSE TABS** 💻
 - [ ] **LAUNDRY** 👕
+
+## WORK & PROJECTS 💼
+XEROCRAFT 🔧
 - [x] **MAKE OBSIDIAN PLUGIN!** 🔌
-- [ ] LOOK FOR FREE ACTIVITIES 🎉
-- [ ] MEDITATE 🧘
+- [x] **CLOSE TABS** 💻
+- [x] CREATE SPOTIFY PLAYLIST (Task Master's Mix) 🎵
+
+## ERRANDS & ADMIN 📋
+- [ ] RETURN TELESCOPE TO LIBRARY 🔭
+- [ ] GET MAIL FORWARDED 📬
 - [ ] BUY CORN CHIPS 🌽
+
+## ACTIVITIES & RESEARCH 🎯
+- [ ] LOOK FOR FREE ACTIVITIES 🎉
+- [ ] LOOK FOR FREE THINGS TO DO THIS WEEKEND IN DOWNTOWN TUCSON 🌵
+- [ ] READ FOR 15 MINUTES 📚
+
+## LOVE & CONNECTION 💕
 - [ ] HI BABY 👋
 - [ ] I LOVE YOU!!! <3 💕
-- [x] CREATE SPOTIFY PLAYLIST (Task Master's Mix) 🎵
-- [ ] EAT BREAKFAST 🍳
-- [ ] EAT LUNCH 🥪
-- [ ] EAT DINNER 🍽️
-- [ ] RETURN TELESCOPE TO LIBRARY 🔭
-- [ ] READ FOR 15 MINUTES 📚
-- [ ] LOOK FOR FREE THINGS TO DO THIS WEEKEND IN DOWNTOWN TUCSON 🌵
-- [ ] GET MAIL FORWARDED 📬
-- [ ] STRETCH 🤸
