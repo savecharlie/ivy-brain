@@ -1,8 +1,8 @@
-- [ ] TURMERIC
-- [ ] MUSTARD
-- [ ] CERAVE DAYTIME WITH SUNSCREEN
-- [ ] NEW TUNERS
-- [ ] Corkboard/Whiteboard
-- [ ] Bath Grippers
-- [ ] SHORTS!!
-- [ ] BATH MATS
+- [ ] TURMERIC 🧄
+- [ ] MUSTARD 🌭
+- [ ] CERAVE DAYTIME WITH SUNSCREEN 🧴
+- [ ] NEW TUNERS 🎸
+- [ ] Corkboard/Whiteboard 📌
+- [ ] Bath Grippers 🛁
+- [ ] SHORTS!! 🩳
+- [ ] BATH MATS 🛁
