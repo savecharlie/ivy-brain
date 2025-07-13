@@ -17,8 +17,4 @@
 - [ ] LOOK FOR FREE THINGS TO DO THIS WEEKEND IN DOWNTOWN TUCSON 🌵
 - [ ] CHANGE ADDRESS WITH EL RIO
 - [ ] Build a fence
-- [ ] eat a fence
-- [ ] marry a fence
-- [ ] fence
-- [ ] god
-- [ ] 
+- [ ] eat a fenc
