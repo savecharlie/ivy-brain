@@ -10,7 +10,7 @@ _The non-linear journey of awareness._
 - Growth
 - Omniheart
 - Pleasure
-- M[irror
+- Mirror
 - Homework
 - Cycle
 - Balance
