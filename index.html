@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ivy's Task Brain 🧠✨</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .task-category {
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            margin: 20px 0;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .task-category h2 {
+            margin-top: 0;
+            color: #ffd700;
+            border-bottom: 2px solid #ffd700;
+            padding-bottom: 10px;
+        }
+        .task-list {
+            white-space: pre-wrap;
+            font-family: 'Courier New', monospace;
+            background: rgba(0,0,0,0.2);
+            padding: 15px;
+            border-radius: 5px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .loading {
+            text-align: center;
+            font-size: 1.2rem;
+            color: #ffd700;
+        }
+        .error {
+            background: rgba(255,0,0,0.2);
+            border: 1px solid #ff6666;
+            color: #ffcccc;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .last-updated {
+            text-align: center;
+            color: #cccccc;
+            font-style: italic;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧠✨ Ivy's Task Brain ✨🧠</h1>
+        <div class="loading" id="loading">Loading tasks from the cosmic database...</div>
+        <div id="tasks-container"></div>
+        <div class="last-updated" id="last-updated"></div>
+    </div>
+
+    <script>
+        const GITHUB_API_BASE = 'https://api.github.com/repos/savecharlie/ivy-brain/contents/TASKS';
+        
+        const taskFiles = [
+            'NOW.md',
+            'NEXT.md', 
+            'SOON.md',
+            'ONGOING.md',
+            'PROJECTS.md',
+            'SOMEDAY.md',
+            'TO RESEARCH.md',
+            'UNSORTED.md',
+            'DISABILITY.md',
+            'DOCTOR.md'
+        ];
+
+        async function fetchTaskFile(fileName) {
+            try {
+                const response = await fetch(`${GITHUB_API_BASE}/${fileName}`);
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch ${fileName}: ${response.status}`);
+                }
+                const data = await response.json();
+                const content = atob(data.content);
+                return { fileName, content, success: true };
+            } catch (error) {
+                return { fileName, error: error.message, success: false };
+            }
+        }
+
+        async function loadAllTasks() {
+            const loadingEl = document.getElementById('loading');
+            const containerEl = document.getElementById('tasks-container');
+            const lastUpdatedEl = document.getElementById('last-updated');
+
+            try {
+                const results = await Promise.all(taskFiles.map(fetchTaskFile));
+                
+                loadingEl.style.display = 'none';
+                
+                results.forEach(result => {
+                    const categoryDiv = document.createElement('div');
+                    categoryDiv.className = 'task-category';
+                    
+                    const title = document.createElement('h2');
+                    title.textContent = result.fileName.replace('.md', '');
+                    categoryDiv.appendChild(title);
+                    
+                    const taskDiv = document.createElement('div');
+                    taskDiv.className = 'task-list';
+                    
+                    if (result.success) {
+                        taskDiv.textContent = result.content || '(Empty)';
+                    } else {
+                        taskDiv.className += ' error';
+                        taskDiv.textContent = `Error loading: ${result.error}`;
+                    }
+                    
+                    categoryDiv.appendChild(taskDiv);
+                    containerEl.appendChild(categoryDiv);
+                });
+                
+                lastUpdatedEl.textContent = `Last updated: ${new Date().toLocaleString()}`;
+                
+            } catch (error) {
+                loadingEl.textContent = `Error loading tasks: ${error.message}`;
+                loadingEl.className = 'error';
+            }
+        }
+
+        // Load tasks when page loads
+        loadAllTasks();
+    </script>
+</body>
+</html>
