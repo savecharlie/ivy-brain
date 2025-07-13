@@ -5,4 +5,4 @@
 - [ ] Corkboard/Whiteboard 📌
 - [ ] SHORTS!! 🩳
 - [ ] BATH MATS 🛁
-- [ ] CORN CHIPS 🌽
+- [x] CORN CHIPS 🌽 ✅ 2025-07-13
