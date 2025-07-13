@@ -1,7 +1,7 @@
-- [ ] CHECK MEDICATION INTERACTIONS!!! 💊
 - [ ] SHOWER 🚿
 - [ ] EAT BREAKFAST 🍳
 - [ ] **BRUSH TEETH!!!** (after breakfast) 🦷
+- [ ] CHECK MEDICATION INTERACTIONS!!! 💊
 - [ ] STRETCH 🤸
 - [ ] MEDITATE 🧘
 - [ ] EAT LUNCH 🥪
