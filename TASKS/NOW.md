@@ -1,6 +1,6 @@
 - [ ] SHOWER 🚿
 - [x] EAT BREAKFAST 🍳 ✅ 2025-07-13
-- [ ] **BRUSH TEETH!!!** (after breakfast) 🦷
+- [x] **BRUSH TEETH!!!** (after breakfast) 🦷
 - [ ] CHECK MEDICATION INTERACTIONS!!! 💊
 - [ ] STRETCH 🤸
 - [ ] MEDITATE 🧘
