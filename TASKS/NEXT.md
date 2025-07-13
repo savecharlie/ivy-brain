@@ -29,5 +29,3 @@
 - [ ] LAKSHMI TATTOO 🕉️
 - [ ] MAKE THE INSTRUMENTS FOR KIDS 🎼
 - [ ] PLAY DATE EVERYTHING 📅
-- [ ] test 1
-- [ ] 
