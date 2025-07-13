@@ -11,4 +11,4 @@
 - [ ] MAKE MUSIC 🎵
 - [ ] WRITE POETRY 📝
 - [ ] LAKSHMI TATTOO 🕉️
-- [ ] Ask natural grocer
+- [ ] Ask natural grocers if can proje
