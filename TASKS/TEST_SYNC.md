@@ -1,0 +1,3 @@
+- [ ] Test sync from Obsidian to Todoist
+- [x] This task is already done
+- [ ] Another test task
