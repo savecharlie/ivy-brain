@@ -6,7 +6,7 @@
 - [ ] STRETCH 🤸
 - [ ] MEDITATE 🧘
 - [ ] EAT LUNCH 🥪
-- [ ] **BRUSH TEETH!!!** (after lunch) 🦷
+- [x] **BRUSH TEETH!!!** (after lunch) 🦷
 - [ ] EAT DINNER 🍽️
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
 - [ ] DISHES 🍽️
