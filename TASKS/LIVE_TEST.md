@@ -1,2 +1,0 @@
-- [ ] Test auto-sync service is working
-- [ ] This should appear in Todoist automatically
