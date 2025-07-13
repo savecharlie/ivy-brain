@@ -4,7 +4,7 @@
 - [ ] MEDITATE 🧘
 - [ ] EAT LUNCH 🥪
 - [x] **BRUSH TEETH!!!** (after lunch) 🦷
-- [ ] EAT SALAD 🥗
+- [x] EAT SALAD 🥗
 - [ ] EAT DINNER 🍽️
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
 - [x] CLEAR DESK 🗂️
