@@ -1,3 +1,4 @@
+- [ ] SHOWER 🚿
 - [ ] EAT BREAKFAST 🍳
 - [ ] **BRUSH TEETH!!!** (after breakfast) 🦷
 - [ ] STRETCH 🤸
