@@ -1,0 +1,8 @@
+- [ ] GET ON EBT 🍽️
+- [ ] FIND A JOB 💼
+- [ ] EARN MONEY 💰
+- [ ] **MAKE MONEY!** 💸
+- [ ] START AN ACCOUNTING OF MONEY 💰
+- [ ] PUT MONEY IN TOPCU 🏦
+- [ ] GO OVER BUSINESS CARDS 📇
+- [ ] DO AMERISPEAK 🎯

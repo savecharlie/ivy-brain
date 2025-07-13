@@ -1,4 +1,4 @@
-BE COMFORTABLY WEALTHY 🤑
-KEEP RECEIPTS FROM ANYTHING I BUY FOR THE APARTMENT 🧾
-BE PARENT TO INNER CHILD TO HELP HER CREATE, SUPPORT HER NEEDS 🧸
-RECORD ALL APPOINTMENTS 📅
+- [ ] Be comfortably wealthy 💰
+- [ ] Keep apartment receipts 🧾
+- [ ] Parent inner child 👶
+- [ ] Record all appointments 📅

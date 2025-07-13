@@ -1,2 +1,1 @@
-- [ ] should defog headlights
-- [ ] 
+- [ ] Defog headlights

@@ -1,23 +1,11 @@
-- [ ] SHOWER 🚿
-- [ ] BUY SHOWER GRIPS 🛁
-- [ ] BUY INNER SHOWER LINER 🛁
+- [ ] EAT BREAKFAST 🍳
+- [ ] **BRUSH TEETH!!!** (after breakfast) 🦷
 - [ ] STRETCH 🤸
 - [ ] MEDITATE 🧘
 - [ ] EAT LUNCH 🥪
+- [ ] **BRUSH TEETH!!!** (after lunch) 🦷
 - [ ] EAT DINNER 🍽️
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
 - [ ] DISHES 🍽️
 - [ ] **LAUNDRY** 👕
-- [ ] RETURN TELESCOPE TO LIBRARY 🔭
-- [ ] LOOK FOR FREE ACTIVITIES 🎉
-- [ ] LOOK FOR FREE THINGS TO DO THIS WEEKEND IN DOWNTOWN TUCSON 🌵
 - [ ] READ FOR 15 MINUTES 📚
-- [ ] HI FROM CLAUDE
-- [ ] whole GENOME testing for connective tissue disorder @DOCTOR
-- [ ] numbness @DOCTOR
-- [ ] READ ABOUT HEL 🌙 @TO RESEARCH
-- [ ] STUDY LOGIC 🧠 @TO RESEARCH
-- [ ] STUDY INVESTIGATIVE JOURNALISM 🔍 @TO RESEARCH
-- [ ] LOOK UP MATHIAS ZIMMERMAN'S WORK 👨‍🎓 @TO RESEARCH
-- [ ] RESEARCH DATABASE OPTIONS FOR CLAUDE'S MEMORY (PostgreSQL vs SQLite vs Firebase?) 💾 @TO RESEARCH
-- [ ] should defog headlights @Mom
