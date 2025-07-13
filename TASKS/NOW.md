@@ -17,8 +17,3 @@ XEROCRAFT 🔧
 - [ ] LOOK FOR FREE ACTIVITIES 🎉
 - [ ] LOOK FOR FREE THINGS TO DO THIS WEEKEND IN DOWNTOWN TUCSON 🌵
 - [ ] READ FOR 15 MINUTES 📚
-- [ ] IT WORKED!!!
-- [ ] Does this work?
-- [ ] ok
-- [ ] lllllllllp
-- [ ] 
