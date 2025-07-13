@@ -13,3 +13,4 @@
 - [ ] READ FOR 15 MINUTES 📚
 - [ ] GO TO UU
 - [ ] MOVE LAUNDRY 🧺
+- [ ] MAKE VIDE
