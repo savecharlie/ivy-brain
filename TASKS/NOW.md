@@ -14,4 +14,4 @@
 - [ ] GO TO UU
 - [ ] MOVE LAUNDRY 🧺
 - [ ] MAKE VIDEO
-- [ ] RESEIN KEYBOARD
+- [ ] RESEarch broswers  KEYBOARD
