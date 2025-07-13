@@ -1,5 +1,5 @@
 - [ ] SHOWER 🚿
-- [ ] EAT BREAKFAST 🍳
+- [x] EAT BREAKFAST 🍳 ✅ 2025-07-13
 - [ ] **BRUSH TEETH!!!** (after breakfast) 🦷
 - [ ] CHECK MEDICATION INTERACTIONS!!! 💊
 - [ ] STRETCH 🤸
@@ -11,3 +11,4 @@
 - [ ] DISHES 🍽️
 - [ ] **LAUNDRY** 👕
 - [ ] READ FOR 15 MINUTES 📚
+- [ ] GO TO UU
