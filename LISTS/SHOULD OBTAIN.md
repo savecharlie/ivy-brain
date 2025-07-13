@@ -1,5 +1,5 @@
 - [ ] TURMERIC 🧄
-- [ ] MUSTARD 🌭
+- [x] MUSTARD 🌭 ✅ 2025-07-13
 - [ ] CERAVE DAYTIME WITH SUNSCREEN 🧴
 - [ ] NEW TUNERS 🎸
 - [ ] Corkboard/Whiteboard 📌
