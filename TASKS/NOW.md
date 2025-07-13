@@ -19,3 +19,7 @@ XEROCRAFT 🔧
 - [ ] READ FOR 15 MINUTES 📚
 - [ ] IT WORKED!!!
 - [ ] Does this work?
+- [ ] ok
+- [ ] hi
+- [ ] hello
+- [ ] 
