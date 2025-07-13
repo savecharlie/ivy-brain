@@ -9,7 +9,7 @@
 - [ ] EAT DINNER 🍽️
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
 - [ ] DISHES 🍽️
-- [ ] **LAUNDRY** 👕
+- [x] **LAUNDRY** 👕
 - [x] RESEARCH BROSWERS WITH BUILT IN KEYBOARDS ✅ 2025-07-13
 - [x] CHOOSE CALENDAR APP
 - [ ] TAKE OUT TRASH
