@@ -18,4 +18,6 @@
 - [ ] CHANGE ADDRESS WITH EL RIO
 - [ ] Build a fence
 - [ ] eat a fence
-- [ ] marry a fenc
+- [ ] marry a fence
+- [ ] fence
+- [ ] 
