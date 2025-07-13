@@ -1,4 +1,4 @@
-- [ ] EAT BREAKFAST 🍳
+- [x] EAT BREAKFAST 🍳
 - [x] **BRUSH TEETH!!!** (after breakfast) 🦷
 - [ ] STRETCH 🤸
 - [ ] MEDITATE 🧘
