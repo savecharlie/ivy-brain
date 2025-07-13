@@ -21,7 +21,4 @@ XEROCRAFT 🔧
 - [ ] Does this work?
 - [ ] test 2
 - [ ] test 3
-- [ ] test 4
-- [ ] hello
-- [ ] great
 - [ ] 
