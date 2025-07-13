@@ -1,4 +1,4 @@
-- [ ] TUMS 💊
+- [x] TUMS 💊 ✅ 2025-07-13
 - [ ] UNDERWEAR 👙
 - [ ] SOCKS 🧦
 - [ ] rower 🚣
