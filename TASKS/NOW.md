@@ -10,6 +10,6 @@
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
 - [ ] DISHES 🍽️
 - [ ] **LAUNDRY** 👕
-- [ ] MAKE VIDEO
+
 - [ ] RESEARCH BROSWERS WITH BUILT IN KEYBOARDS
 - [ ] CHOOSE CALENDAR
