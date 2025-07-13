@@ -1,5 +1,5 @@
-- [ ] BUY TURMERIC
-- [ ] BUY MUSTARD
+- [ ] TURMERIC
+- [ ] MUSTARD
 - [ ] CERAVE DAYTIME WITH SUNSCREEN
 - [ ] NEW TUNERS
 - [ ] Corkboard/Whiteboard
