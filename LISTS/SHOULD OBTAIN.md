@@ -3,6 +3,6 @@
 - [ ] CERAVE DAYTIME WITH SUNSCREEN 🧴
 - [ ] NEW TUNERS 🎸
 - [ ] Corkboard/Whiteboard 📌
-- [ ] Bath Grippers 🛁
 - [ ] SHORTS!! 🩳
 - [ ] BATH MATS 🛁
+- [ ] CORN CHIPS 🌽
