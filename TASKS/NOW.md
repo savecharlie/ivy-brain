@@ -14,4 +14,4 @@
 - [ ] GO TO UU
 - [ ] MOVE LAUNDRY 🧺
 - [ ] MAKE VIDEO
-- [ ] RESEARCH BROSWERS
+- [ ] RESEARCH BROWSERS 
