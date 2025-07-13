@@ -11,7 +11,6 @@
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
 - [ ] DISHES 🍽️
 - [ ] **LAUNDRY** 👕
-- [ ] READ FOR 15 MINUTES 📚
 - [ ] MAKE VIDEO
 - [ ] RESEARCH BROSWERS WITH BUILT IN KEYBOARDS
 - [ ] CHOOSE CALENDAR
