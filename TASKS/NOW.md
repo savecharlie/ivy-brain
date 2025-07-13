@@ -14,4 +14,4 @@
 - [ ] GO TO UU
 - [ ] MOVE LAUNDRY 🧺
 - [ ] MAKE VIDEO
-- [ ] RESEarch broswers with built in keyboard KEYBOARD
+- [ ] RESEarch broswers with built in keyboards
