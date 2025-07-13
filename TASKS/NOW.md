@@ -2,8 +2,8 @@ XEROCRAFT
 - [x] CLEAR DESK
 - [ ] DISHES
 - [ ] EAT SALAD
-- [x] **BRUSH TEETH!!!**
-- [x] **BRUSH TEETH!!!**
+- [x] **BRUSH TEETH!!!** (after breakfast)
+- [x] **BRUSH TEETH!!!** (after lunch)
 - [ ] **BRUSH TEETH!!!** (after dinner)
 	- [x] **CLOSE TABS**
 - [ ] **LAUNDRY**
