@@ -1,11 +1,11 @@
-- [ ] BUY TUMS
-- [ ] BUY UNDERWEAR 👙
-- [ ] BUY SOCKS 🧦
-- [x] A BIKE
-- [x] RAZORS
-- [x] LIQUID IV
-- [x] Laundry soap
-- [ ] rower
-- [x] reusable bags!
-- [ ] ziplock bags
-- [ ] SUNBRELLA
+- [ ] TUMS 💊
+- [ ] UNDERWEAR 👙
+- [ ] SOCKS 🧦
+- [x] A BIKE 🚲
+- [x] RAZORS 🪒
+- [x] LIQUID IV 💧
+- [x] Laundry soap 🧴
+- [ ] rower 🚣
+- [x] reusable bags! 🛍️
+- [ ] ziplock bags 📦
+- [ ] SUNBRELLA ☂️
