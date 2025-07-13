@@ -5,4 +5,4 @@
 - [ ] Corkboard/Whiteboard
 - [ ] Bath Grippers
 - [ ] SHORTS!!
-- [ ] 
+- [ ] GET BATH MATS
