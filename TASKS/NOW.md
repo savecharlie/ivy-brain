@@ -11,7 +11,6 @@
 - [ ] DISHES 🍽️
 - [ ] **LAUNDRY** 👕
 XEROCRAFT 🔧
-- [x] **MAKE OBSIDIAN PLUGIN!** 🔌
 - [x] **CLOSE TABS** 💻
 - [x] CREATE SPOTIFY PLAYLIST (Task Master's Mix) 🎵
 - [ ] RETURN TELESCOPE TO LIBRARY 🔭
