@@ -11,4 +11,4 @@
 - [ ] MAKE MUSIC 🎵
 - [ ] WRITE POETRY 📝
 - [ ] LAKSHMI TATTOO 🕉️
-- [ ] Ask natural grocers if can project onto chase
+- [ ] ASK NATURAL GROCERS IF CAN PROJECT ONTO CHASE
