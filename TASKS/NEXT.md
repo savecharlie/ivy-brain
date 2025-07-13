@@ -5,7 +5,6 @@
 - [ ] MAKE STROGANOFF 🍝
 - [ ] WASH BEDDING 🛏️
 - [ ] CLEAN APARTMENT 🧹
-- [ ] **CLEAN UP RESIN RESIDUE!!** ✨
 - [ ] PRINT CALENDAR FOR THE REST OF THE YEAR 📅
 - [ ] GET PO BOX 📮
 - [ ] GET BIRTH CERTIFICATE 📋

@@ -1,3 +1,4 @@
+- [ ] **CLEAN UP RESIN RESIDUE!!** ✨
 - [ ] GET ON KETAMINE INFUSIONS 💉
 - [ ] PLUCK EYEBROW 🪒
 - [ ] MAKE A BUDGET 💰
