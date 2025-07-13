@@ -1,3 +1,4 @@
+- [ ] HI MOM
 - [ ] SHOWER 🚿
 - [x] EAT BREAKFAST 🍳 ✅ 2025-07-13
 - [x] **BRUSH TEETH!!!** (after breakfast) 🦷
