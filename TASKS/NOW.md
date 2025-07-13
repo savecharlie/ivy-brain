@@ -4,7 +4,6 @@
 - [ ] MEDITATE 🧘
 - [ ] EAT LUNCH 🥪
 - [x] **BRUSH TEETH!!!** (after lunch) 🦷
-- [x] EAT SALAD 🥗
 - [ ] EAT DINNER 🍽️
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
 - [x] CLEAR DESK 🗂️
@@ -12,7 +11,6 @@
 - [ ] **LAUNDRY** 👕
 XEROCRAFT 🔧
 - [x] **CLOSE TABS** 💻
-- [x] CREATE SPOTIFY PLAYLIST (Task Master's Mix) 🎵
 - [ ] RETURN TELESCOPE TO LIBRARY 🔭
 - [ ] GET MAIL FORWARDED 📬
 - [ ] BUY CORN CHIPS 🌽
