@@ -1,16 +1,11 @@
-- [x] EAT BREAKFAST 🍳
-- [x] **BRUSH TEETH!!!** (after breakfast) 🦷
 - [ ] STRETCH 🤸
 - [ ] MEDITATE 🧘
 - [ ] EAT LUNCH 🥪
-- [x] **BRUSH TEETH!!!** (after lunch) 🦷
 - [ ] EAT DINNER 🍽️
 - [ ] **BRUSH TEETH!!!** (after dinner) 🦷
-- [x] CLEAR DESK 🗂️
 - [ ] DISHES 🍽️
 - [ ] **LAUNDRY** 👕
 XEROCRAFT 🔧
-- [x] **CLOSE TABS** 💻
 - [ ] RETURN TELESCOPE TO LIBRARY 🔭
 - [ ] GET MAIL FORWARDED 📬
 - [ ] BUY CORN CHIPS 🌽
