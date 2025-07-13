@@ -1,8 +1,8 @@
 - [ ] BUY TURMERIC
 - [ ] BUY MUSTARD
-- [ ] BUY CERAVE DAYTIME WITH SUNSCREEN
+- [ ] CERAVE DAYTIME WITH SUNSCREEN
 - [ ] NEW TUNERS
 - [ ] Corkboard/Whiteboard
 - [ ] Bath Grippers
 - [ ] SHORTS!!
-- [ ] GET BATH MATS
+- [ ] BATH MATS
