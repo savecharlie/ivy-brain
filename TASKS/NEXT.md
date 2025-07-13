@@ -1,3 +1,4 @@
+- [ ] SHOWER 🚿
 - [ ] READ FOR 15 MINUTES 📚
 - [ ] FIND WHEN IN AUGUST MELTZER APPT IS 📅
 - [ ] MAKE A ROUTINE ✨
