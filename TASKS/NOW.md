@@ -1,4 +1,4 @@
-- [ ] HI MOM
+- [x] HI MOM ✅ 2025-07-13
 - [ ] SHOWER 🚿
 - [x] EAT BREAKFAST 🍳 ✅ 2025-07-13
 - [x] **BRUSH TEETH!!!** (after breakfast) 🦷
@@ -15,4 +15,4 @@
 - [ ] GO TO UU
 - [ ] MOVE LAUNDRY 🧺
 - [ ] MAKE VIDEO
-- [ ] RESEarch broswers with built in keyboards
+- [ ] RESEARCH BROSWERS WITH BUILT IN KEYBOARDS
