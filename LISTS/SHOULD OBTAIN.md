@@ -1,5 +1,4 @@
-- [ ] TURMERIC 🧄
-- [x] M
+- [ ] TURMERIC 
 - [ ] CERAVE DAYTIME WITH SUNSCREEN 🧴
 - [ ] NEW TUNERS 🎸
 - [ ] Corkboard/Whiteboard 📌
