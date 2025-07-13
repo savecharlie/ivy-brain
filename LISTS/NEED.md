@@ -4,3 +4,5 @@
 - [ ] rower 🚣
 - [ ] ziplock bags 📦
 - [ ] SUNBRELLA ☂️
+- [ ] SHOWER GRIPS 🛁
+- [ ] INNER SHOWER LINER 🛁
