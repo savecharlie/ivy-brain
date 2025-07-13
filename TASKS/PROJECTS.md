@@ -11,4 +11,4 @@
 - [ ] MAKE MUSIC 🎵
 - [ ] WRITE POETRY 📝
 - [ ] LAKSHMI TATTOO 🕉️
-- [ ] Ask n
+- [ ] Ask natural grocer
