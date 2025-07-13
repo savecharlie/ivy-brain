@@ -20,6 +20,5 @@ XEROCRAFT 🔧
 - [ ] IT WORKED!!!
 - [ ] Does this work?
 - [ ] ok
-- [ ] hi
 - [ ] lllllllllp
 - [ ] 
