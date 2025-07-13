@@ -5,4 +5,3 @@
 - [ ] Corkboard/Whiteboard 📌
 - [ ] SHORTS!! 🩳
 - [ ] BATH MATS 🛁
-- [x] CO
