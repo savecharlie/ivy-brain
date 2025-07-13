@@ -16,4 +16,4 @@
 - [ ] MOVE LAUNDRY 🧺
 - [ ] MAKE VIDEO
 - [ ] RESEARCH BROSWERS WITH BUILT IN KEYBOARDS
-- [ ] 
+- [ ] choose 
