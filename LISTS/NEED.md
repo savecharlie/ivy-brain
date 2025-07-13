@@ -2,7 +2,7 @@
 - [ ] UNDERWEAR 👙
 - [ ] SOCKS 🧦
 - [ ] rower 🚣
-- [ ] ziplock bags 📦
+- [x] ziplock bags 📦 ✅ 2025-07-13
 - [ ] SUNBRELLA ☂️
 - [ ] SHOWER GRIPS 🛁
 - [ ] INNER SHOWER LINER 🛁
